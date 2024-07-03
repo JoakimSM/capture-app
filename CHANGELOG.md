@@ -1,3 +1,10 @@
+## [100.70.4](https://github.com/JoakimSM/capture-app/compare/v100.70.3...v100.70.4) (2024-07-03)
+
+
+### Bug Fixes
+
+* attempt 1 ([#16](https://github.com/JoakimSM/capture-app/issues/16)) ([b8e046b](https://github.com/JoakimSM/capture-app/commit/b8e046bc6bada3d050731ae69f5c9c5793a32832))
+
 ## [100.70.3](https://github.com/dhis2/capture-app/compare/v100.70.2...v100.70.3) (2024-07-03)
 
 
