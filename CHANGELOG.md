@@ -1,3 +1,10 @@
+## [100.73.1](https://github.com/JoakimSM/capture-app/compare/v100.73.0...v100.73.1) (2024-07-03)
+
+
+### Bug Fixes
+
+* test 3 ([c3049ba](https://github.com/JoakimSM/capture-app/commit/c3049bac43412430982d9e635bc5a8a7ed4a030a))
+
 ## [100.71.2](https://github.com/JoakimSM/capture-app/compare/v100.71.1...v100.71.2) (2024-07-03)
 
 
